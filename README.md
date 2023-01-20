@@ -60,6 +60,8 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 
 #### Conference
 
+- Learning Memory-Based Control for Human-Scale Bipedal Locomotion (RSS) [[paper](https://arxiv.org/abs/2006.02402)] [[note](src\notes\Learning_Memory-Based_Control_for_Human-Scale_Bipedal_Locomotion.md)]
+
 #### Journal
 
 
@@ -85,6 +87,6 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 #### Conference
 
 - Learning locomotion skills using
-  deeprl: Does the choice of action space matter? (ACM SIGGRAPH) [**control**] [[paper](https://xbpeng.github.io/projects/ActionSpace/index.html)] [[local link](C:\Users\chenpengyu\Zotero\storage\JY6J4CID\Peng 和 van de Panne - 2017 - Learning locomotion skills using DeepRL does the .pdf)]
+  deeprl: Does the choice of action space matter? (ACM SIGGRAPH) [**control**] [[paper](https://xbpeng.github.io/projects/ActionSpace/index.html)] 
 
 #### Journal

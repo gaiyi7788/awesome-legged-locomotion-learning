@@ -6,10 +6,6 @@ Feedback Control For Cassie With Deep Reinforcement Learning
 
 Bipedal locomotion skills are challenging to develop. **Control strategies often use local linearization of the dynamics in conjunction with reduced-order abstractions to yield tractable solutions.** In these model-based control strategies, the controller is often not fully aware of many details, including **torque limits**, **joint limits**, and other **non-linearities** that are necessarily excluded from the control computations for simplicity. Deep reinforcement learning (DRL) offers a promising **model-free** approach for controlling bipedal locomotion which can more fully exploit the dynamics. However, **current results** in the machine learning literature are often **based on ad-hoc simulation models** that are not based on corresponding hardware. Thus it remains unclear how well DRL will succeed on **realizable bipedal robots**. In this paper, we demonstrate the effectiveness of DRL using a realistic model of Cassie, a bipedal robot. By **formulating a feedback control problem as finding the optimal policy for a Markov Decision Process**, we are able to learn robust walking controllers that imitate a reference motion with DRL. Controllers for different walking speeds are learned by imitating simple timescaled versions of the original reference motion. Controller robustness is demonstrated through several challenging tests, including **sensory delay**, **walking blindly on irregular terrain** and **unexpected pushes at the pelvis**. We also show we can interpolate between individual policies and that robustness can be improved with an **interpolated policy**.
 
-## Summary
-
-写完笔记之后最后填，概述文章的内容，以后查阅笔记的时候先看这一段。
-
 ## Motivation
 
 - Current results in the machine learning literature are often based on ad-hoc simulation models that are not based on corresponding hardware.
