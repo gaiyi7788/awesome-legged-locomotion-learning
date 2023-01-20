@@ -6,7 +6,11 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 
 [[FRobs_RL](https://github.com/jmfajardod/frobs_rl)\]: Framework to easily develop robotics Reinforcement Learning tasks using Gazebo and stable-baselines-3. ![GitHub stars](https://img.shields.io/github/stars/jmfajardod/frobs_rl.svg?logo=github&label=Stars)
 
-[[cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)]: gym RL environment in which a mujoco simulation of Agility Robotics' Cassie robot is rewarded for walking/running forward as fast as possible. ![GitHub stars](https://img.shields.io/github/stars/osudrl/cassie-mujoco-sim.svg?logo=github&label=Stars)
+[[cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)]: A simulation library for Agility Robotics' Cassie robot using MuJoCo ![GitHub stars](https://img.shields.io/github/stars/osudrl/cassie-mujoco-sim.svg?logo=github&label=Stars)
+
+[[gym-cassie-run](https://github.com/perrin-isir/gym-cassie-run)]: gym RL environment in which a mujoco simulation of Agility Robotics' Cassie robot is rewarded for walking/running forward as fast as possible. ![GitHub stars](https://img.shields.io/github/stars/perrin-isir/gym-cassie-run.svg?logo=github&label=Stars)
+
+[[Mujoco_walkingRobots](https://github.com/pjhae/Mujoco_walkingRobots)]: Simple walking implementation using RL (GYM, MUJOCO, stablebaselines3 + (Linux)) ![GitHub stars](https://img.shields.io/github/stars/pjhae/Mujoco_walkingRobots.svg?logo=github&label=Stars)
 
 
 
@@ -38,11 +42,15 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 
 #### Journal
 
+- Improving Sample Efficiency of Deep Reinforcement Learning for Bipedal Walking (IEEE-RAS) [[paper](https://ieeexplore.ieee.org/document/10000068)] [[code](https://github.com/rgalljamov/learn2walk)] 
+
 
 
 ### 2021
 
 #### Conference
+
+- Reinforcement Learning for Robust Parameterized Locomotion Control of Bipedal Robots (ICRA) [[paper](https://ieeexplore.ieee.org/abstract/document/9560769)]
 
 #### Journal
 
@@ -68,7 +76,7 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 
 #### Conference
 
-- Feedback Control For Cassie With Deep Reinforcement Learning（IROS）[**control**] [[paper](https://ieeexplore.ieee.org/abstract/document/8593722)] [[code](https://github.com/osudrl/cassie-mujoco-sim)] [[note](src/notes/Feedback_Control_For_Cassie_With_Deep_Reinforcement_Learning.md)] [[local link](C:\Users\chenpengyu\Zotero\storage\K7SW43PN\Xie 等 - 2018 - Feedback Control For Cassie With Deep Reinforcemen.pdf)]
+- Feedback Control For Cassie With Deep Reinforcement Learning（IROS）[**control**] [[paper](https://ieeexplore.ieee.org/abstract/document/8593722)] [[code](https://github.com/osudrl/cassie-mujoco-sim)] [[note](src/notes/Feedback_Control_For_Cassie_With_Deep_Reinforcement_Learning.md)]
 
 #### Journal
 
