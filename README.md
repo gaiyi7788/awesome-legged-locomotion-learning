@@ -68,7 +68,7 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 
 #### Conference
 
-- Feedback Control For Cassie With Deep Reinforcement Learning（IROS）[[paper](https://ieeexplore.ieee.org/abstract/document/8593722)] [[code](https://github.com/osudrl/cassie-mujoco-sim)] [[note](src/Feedback_Control_For_Cassie_With_Deep_Reinforcement_Learning.md)]
+- Feedback Control For Cassie With Deep Reinforcement Learning（IROS）[[paper](https://ieeexplore.ieee.org/abstract/document/8593722)] [[code](https://github.com/osudrl/cassie-mujoco-sim)] [[note](src/notes/Feedback_Control_For_Cassie_With_Deep_Reinforcement_Learning.md)]
 
 #### Journal
 
