@@ -60,7 +60,7 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 
 #### Conference
 
-- Learning Memory-Based Control for Human-Scale Bipedal Locomotion (RSS) [[paper](https://arxiv.org/abs/2006.02402)] [[note](src\notes\Learning_Memory-Based_Control_for_Human-Scale_Bipedal_Locomotion.md)]
+- Learning Memory-Based Control for Human-Scale Bipedal Locomotion (RSS) [[paper](https://arxiv.org/abs/2006.02402)] [[note](src/notes/Learning_Memory-Based_Control_for_Human-Scale_Bipedal_Locomotion.md)]
 
 #### Journal
 
