@@ -2,7 +2,7 @@
 
 A curated list of resources relevant to legged locomotion learning of robotics.
 
-## Related awesomes
+## Related awesome-lists
 
 - **[awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)**
 
@@ -27,6 +27,7 @@ A curated list of resources relevant to legged locomotion learning of robotics.
 ## Technical blog
 
 - [强化学习环境ISAAC GYM初步入门](https://mp.weixin.qq.com/s?__biz=MzkyNDI5OTA1OA==&mid=2247495740&idx=1&sn=4d06d5ccf9ad9c8a9311bec613833bfd&chksm=c1d54a61f6a2c377769baf47c2fbffd098f091fba392f15802f68ccadb00d94991dcd4d282f4&token=817725460&lang=zh_CN#rd)
+- [技术总结《OpenAI Gym》](https://www.meltycriss.com/2018/03/26/tech-gym/)
 
 ## Papers
 
