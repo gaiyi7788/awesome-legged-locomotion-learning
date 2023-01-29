@@ -2,6 +2,10 @@
 
 A curated list of resources relevant to legged locomotion learning of robotics.
 
+
+
+I'm new to the region of legged locomotion, and this awesome list is mainly used to organize and share some source I've seen. This list will be updated gradually.
+
 ## Related awesome-lists
 
 - **[awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)**
