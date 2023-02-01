@@ -10,6 +10,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 - **[awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)**
 - [Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics)
+- [bipedal-robot-learning-collection](https://github.com/zita-ch/bipedal-robot-learning-collection)
 
 ## Code
 
@@ -25,7 +26,13 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 [[EAGERx](https://github.com/araffin/tools-for-robotic-rl-icra2022)]: Tutorial: Tools for Robotic Reinforcement Learning, Hands-on RL for Robotics with EAGER and Stable-Baselines3. ![GitHub stars](https://img.shields.io/github/stars/araffin/tools-for-robotic-rl-icra2022.svg?logo=github&label=Stars)
 
-[[DRLoco](https://github.com/rgalljamov/DRLoco)]: Simple-to-use-and-extend implementation of the **DeepMimic** Approach using the **MuJoCo** Physics Engine and **Stable Baselines 3**, mainly for locomotion tasks.
+[[DRLoco](https://github.com/rgalljamov/DRLoco)]: Simple-to-use-and-extend implementation of the **DeepMimic** Approach using the **MuJoCo** Physics Engine and **Stable Baselines 3**, mainly for locomotion tasks. [[Doc](https://drloco.readthedocs.io/en/latest/)]
+
+[[spot_mini_mini](https://github.com/OpenQuadruped/spot_mini_mini)]: Dynamics and Domain Randomized Gait Modulation with Bezier Curves for Sim-to-Real Legged Locomotion. (ROS + Gazebo + Gym + Pybullet) [[Doc](https://spot-mini-mini.readthedocs.io/en/latest/index.html)]
+
+[[bipedal-skills](https://github.com/facebookresearch/bipedal-skills)]: Bipedal Skills Benchmark for Reinforcement Learning
+
+[[terrain_benchmark](https://github.com/zita-ch/terrain_benchmark)]: terrain-robustness benchmark for legged locomotion
 
 ## Survey
 
@@ -53,6 +60,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Conference
 
+- [**ICRA**] Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning [[paper](https://arxiv.org/pdf/2208.07681.pdf)] [[code](https://github.com/zita-ch/terrain_benchmark)]
+
 #### Journal
 
 
@@ -79,6 +88,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 #### Conference
 
 - [**ICRA**] Reinforcement Learning for Robust Parameterized Locomotion Control of Bipedal Robots. [**sim2real**] [[paper](https://ieeexplore.ieee.org/abstract/document/9560769)]
+- [**NeurIPS**] Hierarchical Skills for Efficient Exploration [**control**] [[paper](https://arxiv.org/pdf/2110.10809.pdf)]
 
 #### Journal
 
