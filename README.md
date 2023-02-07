@@ -92,6 +92,9 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 #### Conference
 
 - [**ICRA**] Reinforcement Learning for Robust Parameterized Locomotion Control of Bipedal Robots. [**sim2real**] [[paper](https://ieeexplore.ieee.org/abstract/document/9560769)]
+
+![image-20230207114359031](https://cpy-fig-1310002510.cos.ap-chengdu.myqcloud.com/Typora_pictures/image-20230207114359031.png)
+
 - [**NeurIPS**] Hierarchical Skills for Efficient Exploration [**control**] [[paper](https://arxiv.org/pdf/2110.10809.pdf)]
 
 #### Journal
@@ -102,7 +105,10 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Conference
 
-- [**RSS**] Learning Memory-Based Control for Human-Scale Bipedal Locomotion. [**sim2real**] [[paper](https://arxiv.org/abs/2006.02402)] [[note](src/notes/Learning_Memory-Based_Control_for_Human-Scale_Bipedal_Locomotion.md)]
+- [**RSS**] Learning Memory-Based Control for Human-Scale Bipedal Locomotion. [**sim2real**] [[paper](https://arxiv.org/abs/2006.02402)] 
+
+![image-20230207115155448](https://cpy-fig-1310002510.cos.ap-chengdu.myqcloud.com/Typora_pictures/image-20230207115155448.png)
+
 - [**IROS**] Crossing the Gap: A Deep Dive into Zero-Shot Sim-to-Real Transfer for Dynamics. [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341617)] [[code](https://github.com/eugval/sim2real_dynamics_simulation)]
 
 #### Journal
@@ -123,8 +129,14 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Conference
 
-- [**IROS**] Feedback Control For Cassie With Deep Reinforcement Learning. [**control**] [[paper](https://ieeexplore.ieee.org/abstract/document/8593722)] [[code](https://github.com/osudrl/cassie-mujoco-sim)] [[note](src/notes/Feedback_Control_For_Cassie_With_Deep_Reinforcement_Learning.md)]
+- [**IROS**] Feedback Control For Cassie With Deep Reinforcement Learning. [**control**] [[paper](https://ieeexplore.ieee.org/abstract/document/8593722)] [[code](https://github.com/osudrl/cassie-mujoco-sim)] 
+
+![image-20230207114638125](https://cpy-fig-1310002510.cos.ap-chengdu.myqcloud.com/Typora_pictures/image-20230207114638125.png)
+
 - [**ICRA**] Sim-to-Real Transfer of Robotic Control with Dynamics Randomization. [**sim2real**] [[paper](https://ieeexplore.ieee.org/abstract/document/8460528)] 
+
+![image-20230207114835448](https://cpy-fig-1310002510.cos.ap-chengdu.myqcloud.com/Typora_pictures/image-20230207114835448.png)
+
 - [**RSS**] Sim-to-Real: Learning Agile Locomotion For Quadruped Robots. [**sim2real**] [[paper](http://www.roboticsproceedings.org/rss14/p10.pdf)]
 - [**ACM SIGGRAPH**] DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills [[paper](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf)] [[code](https://github.com/xbpeng/DeepMimic)]
 
