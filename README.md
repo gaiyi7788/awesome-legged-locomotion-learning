@@ -9,6 +9,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 ## Related awesome-lists
 
 - **[awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)**
+- [Hybrid Robotics Publications](https://hybrid-robotics.berkeley.edu/publications/)
 - [Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics)
 - [bipedal-robot-learning-collection](https://github.com/zita-ch/bipedal-robot-learning-collection)
 
@@ -42,7 +43,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - Robot Learning From Randomized Simulations: A Review. (Frontiers in Robotics and AI, 2022) [**sim2real**] [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9038844/pdf/frobt-09-799893.pdf)]
 - Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey. (IEEE SSCI, 2020) [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308468)]
 - 
--
+How to train your robot with deep reinforcement learning: lessons we have learned. (IJRR, 2021) [**RL Discussion**] [[paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364920987859)] 
 
 ## Technical blog
 
