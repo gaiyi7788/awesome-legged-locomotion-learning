@@ -12,6 +12,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [Hybrid Robotics Publications](https://hybrid-robotics.berkeley.edu/publications/)
 - [Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics)
 - [bipedal-robot-learning-collection](https://github.com/zita-ch/bipedal-robot-learning-collection)
+- [Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
 
 ## Robot models
 
