@@ -62,27 +62,29 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 ## Code
 
-[[**legged_gym**](https://github.com/leggedrobotics/legged_gym)]: Isaac Gym Environments for Legged Robots ![GitHub stars](https://img.shields.io/github/stars/leggedrobotics/legged_gym.svg?logo=github&label=Stars)
+[[**legged_gym**](https://github.com/leggedrobotics/legged_gym)]: Isaac Gym Environments for Legged Robots ![GitHub stars](https://img.shields.io/github/stars/leggedrobotics/legged_gym.svg?logo=github)
 
-[[**domain-randomizer**](https://github.com/montrealrobotics/domain-randomizer)]: A standalone library to randomize various OpenAI Gym Environments ![GitHub stars](https://img.shields.io/github/stars/montrealrobotics/domain-randomizer.svg?logo=github&label=Stars)
+[[**domain-randomizer**](https://github.com/montrealrobotics/domain-randomizer)]: A standalone library to randomize various OpenAI Gym Environments ![GitHub stars](https://img.shields.io/github/stars/montrealrobotics/domain-randomizer.svg?logo=github)
 
-[[**cassie-mujoco-sim**](https://github.com/osudrl/cassie-mujoco-sim)]: A simulation library for Agility Robotics' Cassie robot using MuJoCo （provide the cassie's model file） ![GitHub stars](https://img.shields.io/github/stars/osudrl/cassie-mujoco-sim.svg?logo=github&label=Stars)
+[[**cassie-mujoco-sim**](https://github.com/osudrl/cassie-mujoco-sim)]: A simulation library for Agility Robotics' Cassie robot using MuJoCo （provide the cassie's model file） ![GitHub stars](https://img.shields.io/github/stars/osudrl/cassie-mujoco-sim.svg?logo=github)
 
-[[**gym-cassie-run**](https://github.com/perrin-isir/gym-cassie-run)]: gym RL environment in which a mujoco simulation of Agility Robotics' Cassie robot is rewarded for walking/running forward as fast as possible. ![GitHub stars](https://img.shields.io/github/stars/perrin-isir/gym-cassie-run.svg?logo=github&label=Stars)
+[[**gym-cassie-run**](https://github.com/perrin-isir/gym-cassie-run)]: gym RL environment in which a mujoco simulation of Agility Robotics' Cassie robot is rewarded for walking/running forward as fast as possible. ![GitHub stars](https://img.shields.io/github/stars/perrin-isir/gym-cassie-run.svg?logo=github)
 
-[[DRLoco](https://github.com/rgalljamov/DRLoco)]: Simple-to-use-and-extend implementation of the **DeepMimic** Approach using the **MuJoCo** Physics Engine and **Stable Baselines 3**, mainly for locomotion tasks [[Doc](https://drloco.readthedocs.io/en/latest/)] ![GitHub stars](https://img.shields.io/github/stars/rgalljamov/DRLoco.svg?logo=github&label=Stars)
+[[DRLoco](https://github.com/rgalljamov/DRLoco)]: Simple-to-use-and-extend implementation of the **DeepMimic** Approach using the **MuJoCo** Physics Engine and **Stable Baselines 3**, mainly for locomotion tasks [[Doc](https://drloco.readthedocs.io/en/latest/)] ![GitHub stars](https://img.shields.io/github/stars/rgalljamov/DRLoco.svg?logo=github)
 
-[[**bipedal-skills**](https://github.com/facebookresearch/bipedal-skills)]: Bipedal Skills Benchmark for Reinforcement Learning ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/bipedal-skills.svg?logo=github&label=Stars)
+[[dm_control](https://github.com/deepmind/dm_control)]: DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo. ![GitHub stars](https://img.shields.io/github/stars/deepmind/dm_control.svg?logo=github)
 
-[[terrain_benchmark](https://github.com/zita-ch/terrain_benchmark)]: terrain-robustness benchmark for legged locomotion ![GitHub stars](https://img.shields.io/github/stars/zita-ch/terrain_benchmark.svg?logo=github&label=Stars)
+[[**bipedal-skills**](https://github.com/facebookresearch/bipedal-skills)]: Bipedal Skills Benchmark for Reinforcement Learning ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/bipedal-skills.svg?logo=github)
+
+[[terrain_benchmark](https://github.com/zita-ch/terrain_benchmark)]: terrain-robustness benchmark for legged locomotion ![GitHub stars](https://img.shields.io/github/stars/zita-ch/terrain_benchmark.svg?logo=github)
 
 [[spot_mini_mini](https://github.com/OpenQuadruped/spot_mini_mini)]: Dynamics and Domain Randomized Gait Modulation with Bezier Curves for Sim-to-Real Legged Locomotion. (ROS + Gazebo + Gym + Pybullet) [[Doc](https://spot-mini-mini.readthedocs.io/en/latest/index.html)]
 
-[[apex](https://github.com/osudrl/apex)]: Apex is a small, modular library that contains some implementations of continuous reinforcement learning algorithms. Fully compatible with OpenAI gym. ![GitHub stars](https://img.shields.io/github/stars/osudrl/apex.svg?logo=github&label=Stars)
+[[apex](https://github.com/osudrl/apex)]: Apex is a small, modular library that contains some implementations of continuous reinforcement learning algorithms. Fully compatible with OpenAI gym. ![GitHub stars](https://img.shields.io/github/stars/osudrl/apex.svg?logo=github)
 
-[[EAGERx](https://github.com/araffin/tools-for-robotic-rl-icra2022)]: Tutorial: Tools for Robotic Reinforcement Learning, Hands-on RL for Robotics with EAGER and Stable-Baselines3. ![GitHub stars](https://img.shields.io/github/stars/araffin/tools-for-robotic-rl-icra2022.svg?logo=github&label=Stars)
+[[EAGERx](https://github.com/araffin/tools-for-robotic-rl-icra2022)]: Tutorial: Tools for Robotic Reinforcement Learning, Hands-on RL for Robotics with EAGER and Stable-Baselines3. ![GitHub stars](https://img.shields.io/github/stars/araffin/tools-for-robotic-rl-icra2022.svg?logo=github)
 
-[[FRobs_RL](https://github.com/jmfajardod/frobs_rl)\]: Framework to easily develop robotics Reinforcement Learning tasks using Gazebo and stable-baselines-3. ![GitHub stars](https://img.shields.io/github/stars/jmfajardod/frobs_rl.svg?logo=github&label=Stars)
+[[FRobs_RL](https://github.com/jmfajardod/frobs_rl)\]: Framework to easily develop robotics Reinforcement Learning tasks using Gazebo and stable-baselines-3. ![GitHub stars](https://img.shields.io/github/stars/jmfajardod/frobs_rl.svg?logo=github)
 
 ## Survey
 
@@ -105,6 +107,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [2022] Learning Bipedal Walking On Planned Footsteps For Humanoid Robots. [[paper](https://arxiv.org/pdf/2207.12644.pdf)] [[code](https://github.com/rohanpsingh/LearningHumanoidWalking)]
 - [2022] Walking in Narrow Spaces: Safety-critical Locomotion Control for Quadrupedal Robots with Duality-based Optimization. [[paper](https://arxiv.org/pdf/2212.14199.pdf)] [[code](https://github.com/HybridRobotics/quadruped_nmpc_dcbf_duality)]
 - [2022] Bridging Model-based Safety and Model-free Reinforcement Learning through System Identification of Low Dimensional Linear Models. [[paper](https://arxiv.org/pdf/2205.05787.pdf)]
+- [2022] Dynamic Bipedal Maneuvers through Sim-to-Real Reinforcement Learning. [[paper](https://arxiv.org/abs/2207.07835)]
 
 
 
@@ -127,6 +130,8 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [**CoRL**] Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior. (Oral) [**control**] [[paper](https://arxiv.org/abs/2212.03238)] [[code](https://github.com/Improbable-AI/walk-these-ways)]
 - [**RSS**] Rapid Locomotion via Reinforcement Learning. [[paper](https://github.com/Improbable-AI/rapid-locomotion-rl)] [[code](https://github.com/Improbable-AI/rapid-locomotion-rl)]
 - [**ICRA**] An Adaptable Approach to Learn Realistic Legged Locomotion without Examples. [[paper](https://ieeexplore.ieee.org/abstract/document/9812441)]
+- [**ICRA**] Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads. [[paper](https://ieeexplore.ieee.org/document/9811783)]
+- [**ACM GRAPH**] ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters [[paper](https://dl.acm.org/doi/pdf/10.1145/3528223.3530110)]
 
 #### Journal
 
@@ -159,6 +164,9 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 ![image-20230207115155448](src/figs/image-20230207115155448.png)
 
 - [**IROS**] Crossing the Gap: A Deep Dive into Zero-Shot Sim-to-Real Transfer for Dynamics. [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341617)] [[code](https://github.com/eugval/sim2real_dynamics_simulation)]
+- [**PMLR**] CoMic: Complementary Task Learning & Mimicry for Reusable Skills. [**imimtation**] [[paper](https://proceedings.mlr.press/v119/hasenclever20a.html)] [[code](https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion)]
+
+![image-20230215210809348](/home/cpy/projects/awesome-legged-locomotion-learning/src/figs/image-20230215210809348.png)
 
 #### Journal
 
