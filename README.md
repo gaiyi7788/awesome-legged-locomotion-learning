@@ -164,9 +164,9 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 ![image-20230207115155448](src/figs/image-20230207115155448.png)
 
 - [**IROS**] Crossing the Gap: A Deep Dive into Zero-Shot Sim-to-Real Transfer for Dynamics. [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341617)] [[code](https://github.com/eugval/sim2real_dynamics_simulation)]
-- [**PMLR**] CoMic: Complementary Task Learning & Mimicry for Reusable Skills. [**imimtation**] [[paper](https://proceedings.mlr.press/v119/hasenclever20a.html)] [[code](https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion)]
+- [**PMLR**] CoMic: Complementary Task Learning & Mimicry for Reusable Skills. [**imitation**] [[paper](https://proceedings.mlr.press/v119/hasenclever20a.html)] [[code](https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion)]
 
-![image-20230215210809348](/home/cpy/projects/awesome-legged-locomotion-learning/src/figs/image-20230215210809348.png)
+![image-20230215210809348](src/figs/image-20230215210809348.png)
 
 #### Journal
 
