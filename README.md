@@ -133,6 +133,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [**RSS**] Rapid Locomotion via Reinforcement Learning. [[paper](https://github.com/Improbable-AI/rapid-locomotion-rl)] [[code](https://github.com/Improbable-AI/rapid-locomotion-rl)]
 - [**ICRA**] An Adaptable Approach to Learn Realistic Legged Locomotion without Examples. [[paper](https://ieeexplore.ieee.org/abstract/document/9812441)]
 - [**ICRA**] Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads. [[paper](https://ieeexplore.ieee.org/document/9811783)]
+- [**ICRA**] Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812015)]
 - [**ACM GRAPH**] ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters [[paper](https://dl.acm.org/doi/pdf/10.1145/3528223.3530110)]
 
 #### Journal
@@ -140,7 +141,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [**IEEE-RAS**] Improving Sample Efficiency of Deep Reinforcement Learning for Bipedal Walking. [[paper](https://ieeexplore.ieee.org/document/10000068)] [[code](https://github.com/rgalljamov/learn2walk)] 
 - [**IEEE-RAS**] Dynamic Bipedal Turning through Sim-to-Real Reinforcement Learning. [[paper](https://ieeexplore.ieee.org/abstract/document/10000225)]
 - [**IEEE-RAS**] Learning Bipedal Walking On Planned Footsteps For Humanoid Robots. [[paper](https://arxiv.org/pdf/2207.12644.pdf)] [[code](https://github.com/rohanpsingh/learninghumanoidwalking)]
-- [**TCAS-II**] Parallel Deep Reinforcement Learning Method for Gait Control of Biped Robot .[[paper](https://ieeexplore.ieee.org/document/9690599)]
+- [**TCAS-II**] Parallel Deep Reinforcement Learning Method for Gait Control of Biped Robot. [[paper](https://ieeexplore.ieee.org/document/9690599)]
 
 
 
@@ -154,6 +155,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 - [**NeurIPS**] Hierarchical Skills for Efficient Exploration. [**control**] [[paper](https://arxiv.org/pdf/2110.10809.pdf)]
 - [**ICRA**] Sim-to-Real Learning of All Common Bipedal Gaits via Periodic Reward Composition. [[paper](https://arxiv.org/abs/2011.01387)]
+- [**IROS**] Robust Feedback Motion Policy Design Using Reinforcement Learning on a 3D Digit Bipedal Robot. [[paper](https://ieeexplore.ieee.org/abstract/document/9636467)]
 
 #### Journal
 
@@ -174,7 +176,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 #### Journal
 
-
+[**IEEE-RAL**] Learning Natural Locomotion Behaviors for Humanoid Robots Using Human Bias. [[paper](https://ieeexplore.ieee.org/document/8990011)]
 
 ### 2019
 
