@@ -103,7 +103,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 #### Arxiv Preprint
 
-- [2022] MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control. [[paper](https://arxiv.org/pdf/2208.07363.pdf)] [[project](https://microsoft.github.io/MoCapAct/)]
+- [2022] MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control. [**imitation**] [[paper](https://arxiv.org/pdf/2208.07363.pdf)] [[project](https://microsoft.github.io/MoCapAct/)]
 
 - [2022] NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields. [[paper](https://arxiv.org/pdf/2210.04932.pdf)]
 - [2022] Learning Bipedal Walking On Planned Footsteps For Humanoid Robots. [[paper](https://arxiv.org/pdf/2207.12644.pdf)] [[code](https://github.com/rohanpsingh/LearningHumanoidWalking)]
@@ -152,7 +152,8 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 ![image-20230207114359031](src/figs/image-20230207114359031.png)
 
-- [**NeurIPS**] Hierarchical Skills for Efficient Exploration [**control**] [[paper](https://arxiv.org/pdf/2110.10809.pdf)]
+- [**NeurIPS**] Hierarchical Skills for Efficient Exploration. [**control**] [[paper](https://arxiv.org/pdf/2110.10809.pdf)]
+- [**ICRA**] Sim-to-Real Learning of All Common Bipedal Gaits via Periodic Reward Composition. [[paper](https://arxiv.org/abs/2011.01387)]
 
 #### Journal
 
@@ -182,6 +183,8 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [**IROS**] Sim-to-Real Transfer for Biped Locomotion. [[paper](https://ieeexplore.ieee.org/abstract/document/8968053)]
 
 #### Journal
+
+- [**Science Robotics**] Learning Agile and Dynamic Motor Skills for Legged Robots. [[paper](https://arxiv.org/pdf/1901.08652.pdf)]
 
 
 
