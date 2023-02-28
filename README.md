@@ -177,6 +177,8 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 ![image-20230215210809348](src/figs/image-20230215210809348.png)
 
+- [**PMLR**] Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real. [[paper](http://proceedings.mlr.press/v100/xie20a/xie20a.pdf)]
+
 #### Journal
 
 [**IEEE-RAL**] Learning Natural Locomotion Behaviors for Humanoid Robots Using Human Bias. [[paper](https://ieeexplore.ieee.org/document/8990011)]
