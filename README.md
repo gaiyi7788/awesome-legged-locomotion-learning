@@ -193,7 +193,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 #### Journal
 
-- [**Science Robotics**] Learning Agile and Dynamic Motor Skills for Legged Robots. [[paper](https://arxiv.org/pdf/1901.08652.pdf)]
+- [**Science Robotics**] Learning Agile and Dynamic Motor Skills for Legged Robots. [[paper](https://arxiv.org/pdf/1901.08652.pdf)] [[code](https://github.com/junja94/anymal_science_robotics_supplementary)]
 
 ![image-20230301160644417](src/figs/image-20230301160644417.png)
 
