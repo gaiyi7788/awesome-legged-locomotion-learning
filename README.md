@@ -224,4 +224,6 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 - [**ACM SIGGRAPH**] Learning locomotion skills using deeprl: Does the choice of action space matter? [**control**] [[paper](https://xbpeng.github.io/projects/ActionSpace/index.html)] 
 
+![image-20230301164846274](./src/figs/image-20230301164846274.png)
+
 #### Journal
