@@ -113,6 +113,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [2022] Walking in Narrow Spaces: Safety-critical Locomotion Control for Quadrupedal Robots with Duality-based Optimization. [[paper](https://arxiv.org/pdf/2212.14199.pdf)] [[code](https://github.com/HybridRobotics/quadruped_nmpc_dcbf_duality)]
 - [2022] Bridging Model-based Safety and Model-free Reinforcement Learning through System Identification of Low Dimensional Linear Models. [[paper](https://arxiv.org/pdf/2205.05787.pdf)]
 - [2022] Dynamic Bipedal Maneuvers through Sim-to-Real Reinforcement Learning. [[paper](https://arxiv.org/abs/2207.07835)]
+- [2022] Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning. [[paper](https://xbpeng.github.io/projects/A1Goalkeeping/2022_A1Goalkeeping.pdf)]
 
 
 
