@@ -140,6 +140,9 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [**ICRA**] Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812015)]
 - [**ACM GRAPH**] ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters [[paper](https://dl.acm.org/doi/pdf/10.1145/3528223.3530110)]
 - [**ICMA**] Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles. [[paper](https://arxiv.org/abs/2204.04157)]
+
+![image-20230304165912378](./src/figs/image-20230304165912378.png)
+
 - [**Machines**] Deep Reinforcement Learning for Model Predictive Controller Based on Disturbed Single Rigid Body Model of Biped Robots. [[paper](https://www.mdpi.com/2075-1702/10/11/975)]
 
 #### Journal
@@ -161,7 +164,9 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 - [**NeurIPS**] Hierarchical Skills for Efficient Exploration. [**control**] [[paper](https://arxiv.org/pdf/2110.10809.pdf)]
 - [**ICRA**] Sim-to-Real Learning of All Common Bipedal Gaits via Periodic Reward Composition. [[paper](https://arxiv.org/abs/2011.01387)]
+- [**ICRA**] Deepwalk: Omnidirectional bipedal gait by deep reinforcement learning. [[paper](https://www.ais.uni-bonn.de/papers/ICRA_2021_Rodriguez.pdf)]
 - [**IROS**] Robust Feedback Motion Policy Design Using Reinforcement Learning on a 3D Digit Bipedal Robot. [[paper](https://ieeexplore.ieee.org/abstract/document/9636467)]
+- [**RSS**] Blind Bipedal Stair Traversal via Sim-to-Real Reinforcement Learning. [[paper](https://www.ais.uni-bonn.de/papers/ICRA_2021_Rodriguez.pdf)]
 
 #### Journal
 
@@ -175,6 +180,7 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 ![image-20230207115155448](src/figs/image-20230207115155448.png)
 
+- [**RSS**] Learning Agile Robotic Locomotion Skills by Imitating Animals. [[paper](https://arxiv.org/pdf/2004.00784.pdf)]
 - [**IROS**] Crossing the Gap: A Deep Dive into Zero-Shot Sim-to-Real Transfer for Dynamics. [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341617)] [[code](https://github.com/eugval/sim2real_dynamics_simulation)]
 - [**PMLR**] CoMic: Complementary Task Learning & Mimicry for Reusable Skills. [**imitation**] [[paper](https://proceedings.mlr.press/v119/hasenclever20a.html)] [[code](https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion)]
 
