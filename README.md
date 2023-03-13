@@ -118,6 +118,8 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 - [2022] Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning. [[paper](https://xbpeng.github.io/projects/A1Goalkeeping/2022_A1Goalkeeping.pdf)]
 - [2022] Sim-to-Real Learning of Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid. [[paper](https://arxiv.org/abs/2204.03897)]
 
+![image-20230313104521457](./src/figs/image-20230313104521457.png)
+
 
 
 ### 2023
