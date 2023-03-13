@@ -200,6 +200,9 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 #### Conference
 
 - [**IROS**] Sim-to-Real Transfer for Biped Locomotion. [[paper](https://ieeexplore.ieee.org/abstract/document/8968053)]
+
+![image-20230313100732546](./src/figs/image-20230313100732546.png)
+
 - [**ACM SIGGRAPH**] On Learning Symmetric Locomotion. [[paper](https://xbpeng.github.io/projects/SymLoco/2018_MIG_SymLoco.pdf)] [[code](https://github.com/UBCMOCCA/SymmetricRL)]
 
 ![image-20230301193719049](./src/figs/image-20230301193719049.png)
