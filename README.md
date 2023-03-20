@@ -86,7 +86,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 [[FRobs_RL](https://github.com/jmfajardod/frobs_rl)\]: Framework to easily develop robotics Reinforcement Learning tasks using Gazebo and stable-baselines-3. ![GitHub stars](https://img.shields.io/github/stars/jmfajardod/frobs_rl.svg?logo=github)
 
-[[Cassie_FROST](git@github.com:UMich-BipedLab/Cassie_CFROST.git)]: This repository contains an example using C-FROST to generate a library of walking gaits for Cassie series robot. The code depends on [FROST](https://github.com/ayonga/frost-dev) and [C-FROST](https://github.com/UMich-BipedLab/C-Frost). ![GitHub stars](https://img.shields.io/github/stars/UMich-BipedLab/Cassie_CFROST.svg?logo=github)
+[[Cassie_FROST](https://github.com/UMich-BipedLab/Cassie_Model)]: This repository contains an example using C-FROST to generate a library of walking gaits for Cassie series robot. The code depends on [FROST](https://github.com/ayonga/frost-dev) and [C-FROST](https://github.com/UMich-BipedLab/C-Frost). ![GitHub stars](https://img.shields.io/github/stars/UMich-BipedLab/Cassie_CFROST.svg?logo=github)
 
 ## Survey
 
