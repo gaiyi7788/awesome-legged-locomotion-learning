@@ -128,7 +128,8 @@ How to train your robot with deep reinforcement learning: lessons we have learne
 
 #### Conference
 
-- [**ICRA**] Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning [[paper](https://arxiv.org/pdf/2208.07681.pdf)] [[code](https://github.com/zita-ch/terrain_benchmark)]
+- [**ICRA**] Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning. [[paper](https://arxiv.org/pdf/2208.07681.pdf)] [[code](https://github.com/zita-ch/terrain_benchmark)]
+- [**ICRA**] Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments. [[paper](https://arxiv.org/abs/2209.09233)] [[code](https://github.com/UT-Austin-RPL/PRELUDE)]
 
 #### Journal
 
