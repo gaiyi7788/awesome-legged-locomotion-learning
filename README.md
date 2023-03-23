@@ -131,7 +131,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**ICRA**] Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning. [[paper](https://arxiv.org/pdf/2208.07681.pdf)] [[code](https://github.com/zita-ch/terrain_benchmark)]
 - [**ICRA**] Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments. [**perceptive locomotion**] [[paper](https://arxiv.org/abs/2209.09233)] [[code](https://github.com/UT-Austin-RPL/PRELUDE)]
 
-![image-20230323104014947](./src/figs/image-20230323104014947.png)
+![image-20230323104014947](./src/figs/image-20230323104014948.png)
 
 - 
 
