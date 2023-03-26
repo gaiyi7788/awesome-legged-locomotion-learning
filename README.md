@@ -188,7 +188,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Conference
 
-- [**RSS**] Learning Memory-Based Control for Human-Scale Bipedal Locomotion. [**sim2real**] [[paper](https://arxiv.org/abs/2006.02402)] 
+- [**RSS**] Learning Memory-Based Control for Human-Scale Bipedal Locomotion. [**sim2real**] [[paper](https://arxiv.org/abs/2006.02402)] [[unofficial_code](https://github.com/osudrl/RSS-2020-learning-memory-based-control)]
 
 ![image-20230207115155448](src/figs/image-20230207115155448.png)
 
