@@ -105,7 +105,11 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 ## Papers
 
+
+
 #### Arxiv Preprint
+
+- [2023] Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning. [[paper](https://arxiv.org/pdf/2302.09450.pdf)]
 
 - [2022] MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control. [**imitation**] [[paper](https://arxiv.org/pdf/2208.07363.pdf)] [[project](https://microsoft.github.io/MoCapAct/)]
 
