@@ -88,6 +88,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 [[Cassie_FROST](https://github.com/UMich-BipedLab/Cassie_Model)]: This repository contains an example using C-FROST to generate a library of walking gaits for Cassie series robot. The code depends on [FROST](https://github.com/ayonga/frost-dev) and [C-FROST](https://github.com/UMich-BipedLab/C-Frost). ![GitHub stars](https://img.shields.io/github/stars/UMich-BipedLab/Cassie_CFROST.svg?logo=github)
 
+[[GenLoco](https://github.com/HybridRobotics/GenLoco)]: Official codebase for [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](http://arxiv.org/abs/2209.05309), containing code for training on randomized robotic morphologies to imitate reference motions as well as pre-trained policies and code to deploy these on simulated or real-world robots. ![GitHub stars](https://img.shields.io/github/stars/HybridRobotics/GenLoco.svg?logo=github)
+
 ## Survey
 
 - A Survey of Sim-to-Real Transfer Techniques Applied to Reinforcement Learning for Bioinspired Robots. (TNNLS, 2021) [**sim2real**] [[paper](https://ieeexplore.ieee.org/abstract/document/9552429)] 
