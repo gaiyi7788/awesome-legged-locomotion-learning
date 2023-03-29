@@ -109,6 +109,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Arxiv Preprint
 
+- [2023] Learning Humanoid Locomotion with Transformers. [[paper](https://arxiv.org/pdf/2303.03381.pdf)]
+
 - [2023] Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning. [[paper](https://arxiv.org/pdf/2302.09450.pdf)]
 
 ![image-20230329112415637](./src/figs/image-20230329112415637.png)
