@@ -111,6 +111,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 - [2023] Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning. [[paper](https://arxiv.org/pdf/2302.09450.pdf)]
 
+![image-20230329112415637](./src/figs/image-20230329112415637.png)
+
 - [2022] MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control. [**imitation**] [[paper](https://arxiv.org/pdf/2208.07363.pdf)] [[project](https://microsoft.github.io/MoCapAct/)]
 
 - [2022] Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors. [**imitation**] [[paper](https://arxiv.org/abs/2203.17138)]
@@ -127,6 +129,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [2022] Sim-to-Real Learning of Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid. [[paper](https://arxiv.org/abs/2204.03897)]
 
 ![image-20230313104521457](./src/figs/image-20230313104521457.png)
+
+- [2021] RMA: Rapid Motor Adaptation for Legged Robots. [[paper](https://arxiv.org/pdf/2107.04034.pdf)]
 
 
 
@@ -152,6 +156,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**PMLR**] Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion. [[paper](https://proceedings.mlr.press/v164/bloesch22a/bloesch22a.pdf)]
 - [**PMLR**] Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning. [**platform**] [[paper](https://proceedings.mlr.press/v164/rudin22a/rudin22a.pdf)] [[code](https://github.com/leggedrobotics/legged_gym)]
 - [**CoRL**] Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior. (Oral) [**control**] [[paper](https://arxiv.org/abs/2212.03238)] [[code](https://github.com/Improbable-AI/walk-these-ways)]
+- [**CoRL**] Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. (Oral) [[paper](https://manipulation-locomotion.github.io/resources/Deep-Whole-Body-Control.pdf)]
+- [**CoRL**] Legged Locomotion in Challenging Terrains using Egocentric Vision. [[paper](https://proceedings.mlr.press/v205/agarwal23a/agarwal23a.pdf)]
 - [**RSS**] Rapid Locomotion via Reinforcement Learning. [[paper](https://github.com/Improbable-AI/rapid-locomotion-rl)] [[code](https://github.com/Improbable-AI/rapid-locomotion-rl)]
 - [**ICRA**] An Adaptable Approach to Learn Realistic Legged Locomotion without Examples. [[paper](https://ieeexplore.ieee.org/abstract/document/9812441)]
 - [**ICRA**] Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads. [[paper](https://ieeexplore.ieee.org/document/9811783)]
