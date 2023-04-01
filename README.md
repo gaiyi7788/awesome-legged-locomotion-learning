@@ -90,6 +90,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 [[GenLoco](https://github.com/HybridRobotics/GenLoco)]: Official codebase for [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](http://arxiv.org/abs/2209.05309), containing code for training on randomized robotic morphologies to imitate reference motions as well as pre-trained policies and code to deploy these on simulated or real-world robots. ![GitHub stars](https://img.shields.io/github/stars/HybridRobotics/GenLoco.svg?logo=github)
 
+[[rl-mpc-locomotion](https://github.com/silvery107/rl-mpc-locomotion)]: This repo is aim to provide a fast simulation and RL training framework for quadrupad locomotion. The control framework is a hierarchical controller composed of an higher-level policy network and a lower-level model predictive controller (MPC).
+
 ## Survey
 
 - A Survey of Sim-to-Real Transfer Techniques Applied to Reinforcement Learning for Bioinspired Robots. (TNNLS, 2021) [**sim2real**] [[paper](https://ieeexplore.ieee.org/abstract/document/9552429)] 
@@ -206,7 +208,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 ![image-20230207115155448](src/figs/image-20230207115155448.png)
 
-- [**RSS**] Learning Agile Robotic Locomotion Skills by Imitating Animals. [[paper](https://arxiv.org/pdf/2004.00784.pdf)]
+- [**RSS**] Learning Agile Robotic Locomotion Skills by Imitating Animals. [[paper](https://arxiv.org/pdf/2004.00784.pdf)] [[code](https://github.com/erwincoumans/motion_imitation)] [[code-pytorch](https://github.com/newera-001/motor-system)]
 - [**IROS**] Crossing the Gap: A Deep Dive into Zero-Shot Sim-to-Real Transfer for Dynamics. [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341617)] [[code](https://github.com/eugval/sim2real_dynamics_simulation)]
 - [**PMLR**] CoMic: Complementary Task Learning & Mimicry for Reusable Skills. [**imitation**] [[paper](https://proceedings.mlr.press/v119/hasenclever20a.html)] [[code](https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion)]
 
