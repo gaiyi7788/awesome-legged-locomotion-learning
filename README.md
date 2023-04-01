@@ -13,6 +13,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics)
 - [bipedal-robot-learning-collection](https://github.com/zita-ch/bipedal-robot-learning-collection)
 - [Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
+- [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 
 ## Robot models
 
@@ -97,8 +98,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - A Survey of Sim-to-Real Transfer Techniques Applied to Reinforcement Learning for Bioinspired Robots. (TNNLS, 2021) [**sim2real**] [[paper](https://ieeexplore.ieee.org/abstract/document/9552429)] 
 - Robot Learning From Randomized Simulations: A Review. (Frontiers in Robotics and AI, 2022) [**sim2real**] [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9038844/pdf/frobt-09-799893.pdf)]
 - Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey. (IEEE SSCI, 2020) [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308468)]
-
-- How to train your robot with deep reinforcement learning: lessons we have learned. (IJRR, 2021) [**RL Discussion**] [[paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364920987859)] 
+- How to train your robot with deep reinforcement learning: lessons we have learned. (IJRR, 2021) [**RL Discussion**] [[paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364920987859)]
+- Transformer in Reinforcement Learning for Decision-Making: A Survey. [[paper](https://www.techrxiv.org/articles/preprint/Transformer_in_Reinforcement_Learning_for_Decision-Making_A_Survey/22211908)] [[github](https://github.com/williamyuanv0/Transformer-in-Reinforcement-Learning-for-Decision-Making-A-Survey)]
 
 ## Technical blog
 
@@ -116,6 +117,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [2023] Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning. [[paper](https://arxiv.org/pdf/2302.09450.pdf)]
 
 ![image-20230329112415637](./src/figs/image-20230329112415637.png)
+
+- [2022] Learning Visual Locomotion with Cross-Modal Supervision. [[paper](https://arxiv.org/pdf/2211.03785.pdf)] [code soon]
 
 - [2022] MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control. [**imitation**] [[paper](https://arxiv.org/pdf/2208.07363.pdf)] [[project](https://microsoft.github.io/MoCapAct/)]
 
@@ -167,7 +170,14 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**ICRA**] Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads. [[paper](https://ieeexplore.ieee.org/document/9811783)]
 - [**ICRA**] Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812015)]
 - [**IROS**] Vision-Guided Quadrupedal Locomotion in the Wild with Multi-Modal Delay Randomization. [**vision-guide**] [[paper](https://openreview.net/pdf?id=N3WiBWejPzw)] [[code](https://github.com/Mehooz/vision4leg)]
+
+![image-20230401202349048](./src/figs/image-20230401202349048.png)
+
 - [**ICLR**] Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers. [**vision-guide**] [[paper](https://openreview.net/pdf?id=nhnJ3oo6AB)] [[code](https://github.com/Mehooz/vision4leg)]
+
+![image-20230401200911189](./src/figs/image-20230401200911189.png)
+
+- [**CVPR**] Coupling Vision and Proprioception for Navigation of Legged Robots. [**vision-guide**] [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Fu_Coupling_Vision_and_Proprioception_for_Navigation_of_Legged_Robots_CVPR_2022_paper.pdf)] [[code](https://github.com/MarkFzp/navigation-locomotion)]
 - [**ACM GRAPH**] ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters [[paper](https://dl.acm.org/doi/pdf/10.1145/3528223.3530110)]
 - [**ICMA**] Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles. [[paper](https://arxiv.org/abs/2204.04157)]
 
@@ -197,6 +207,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**ICRA**] Deepwalk: Omnidirectional bipedal gait by deep reinforcement learning. [[paper](https://www.ais.uni-bonn.de/papers/ICRA_2021_Rodriguez.pdf)]
 - [**IROS**] Robust Feedback Motion Policy Design Using Reinforcement Learning on a 3D Digit Bipedal Robot. [[paper](https://ieeexplore.ieee.org/abstract/document/9636467)]
 - [**RSS**] Blind Bipedal Stair Traversal via Sim-to-Real Reinforcement Learning. [[paper](https://www.ais.uni-bonn.de/papers/ICRA_2021_Rodriguez.pdf)]
+- [**PMLR**] From Pixels to Legs: Hierarchical Learning of Quadruped Locomotion. [[paper](https://proceedings.mlr.press/v155/jain21a/jain21a.pdf)]
 
 #### Journal
 
