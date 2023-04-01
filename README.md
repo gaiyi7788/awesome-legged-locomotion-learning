@@ -166,8 +166,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**ICRA**] An Adaptable Approach to Learn Realistic Legged Locomotion without Examples. [[paper](https://ieeexplore.ieee.org/abstract/document/9812441)]
 - [**ICRA**] Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads. [[paper](https://ieeexplore.ieee.org/document/9811783)]
 - [**ICRA**] Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812015)]
-- [**IROS**] Vision-Guided Quadrupedal Locomotion in the Wild with Multi-Modal Delay Randomization. [[paper](https://openreview.net/pdf?id=N3WiBWejPzw)] [[code](https://github.com/Mehooz/vision4leg)]
-- [**ICLR**] Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers. [[paper](https://openreview.net/pdf?id=nhnJ3oo6AB)] [[code](https://github.com/Mehooz/vision4leg)]
+- [**IROS**] Vision-Guided Quadrupedal Locomotion in the Wild with Multi-Modal Delay Randomization. [**vision-guide**] [[paper](https://openreview.net/pdf?id=N3WiBWejPzw)] [[code](https://github.com/Mehooz/vision4leg)]
+- [**ICLR**] Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers. [**vision-guide**] [[paper](https://openreview.net/pdf?id=nhnJ3oo6AB)] [[code](https://github.com/Mehooz/vision4leg)]
 - [**ACM GRAPH**] ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters [[paper](https://dl.acm.org/doi/pdf/10.1145/3528223.3530110)]
 - [**ICMA**] Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles. [[paper](https://arxiv.org/abs/2204.04157)]
 
