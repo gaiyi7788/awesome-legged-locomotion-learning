@@ -112,6 +112,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Arxiv Preprint
 
+- [2023] DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning. [[paper](https://arxiv.org/pdf/2301.10602.pdf)]
+
 - [2023] Learning Humanoid Locomotion with Transformers. [[paper](https://arxiv.org/pdf/2303.03381.pdf)]
 
 - [2023] Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning. [[paper](https://arxiv.org/pdf/2302.09450.pdf)]
@@ -125,6 +127,9 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [2022] Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors. [**imitation**] [[paper](https://arxiv.org/abs/2203.17138)]
 
 - [2022] NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields. [[paper](https://arxiv.org/pdf/2210.04932.pdf)]
+
+![image-20230401211428692](./src/figs/image-20230401211428692.png)
+
 - [2022] Learning Bipedal Walking On Planned Footsteps For Humanoid Robots. [[paper](https://arxiv.org/pdf/2207.12644.pdf)] [[code](https://github.com/rohanpsingh/LearningHumanoidWalking)]
 
 ![image-20230224211017308](src/figs/image-20230224211017308.png)
