@@ -14,6 +14,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [bipedal-robot-learning-collection](https://github.com/zita-ch/bipedal-robot-learning-collection)
 - [Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
 - [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
+- [Legged-Robots](https://github.com/singhaman1750/Legged-Robots)
 
 ## Robot models
 
