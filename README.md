@@ -101,6 +101,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey. (IEEE SSCI, 2020) [**sim2real**] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308468)]
 - How to train your robot with deep reinforcement learning: lessons we have learned. (IJRR, 2021) [**RL Discussion**] [[paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364920987859)]
 - Transformer in Reinforcement Learning for Decision-Making: A Survey. [[paper](https://www.techrxiv.org/articles/preprint/Transformer_in_Reinforcement_Learning_for_Decision-Making_A_Survey/22211908)] [[github](https://github.com/williamyuanv0/Transformer-in-Reinforcement-Learning-for-Decision-Making-A-Survey)]
+- Recent Approaches for Perceptive Legged Locomotion. [[paper](https://arxiv.org/pdf/2209.10118.pdf)]
 
 ## Technical blog
 
@@ -151,6 +152,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Conference
 
+- [**ICRA**] ViNL: Visual Navigation and Locomotion Over Obstacles. [[paper](https://arxiv.org/abs/2210.14791)] [[code](https://github.com/SimarKareer/ViNL)] [[project page](http://www.joannetruong.com/projects/vinl.html)]
 - [**ICRA**] Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning. [[paper](https://arxiv.org/pdf/2208.07681.pdf)] [[code](https://github.com/zita-ch/terrain_benchmark)]
 - [**ICRA**] Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments. [**perceptive locomotion**] [[paper](https://arxiv.org/abs/2209.09233)] [[code](https://github.com/UT-Austin-RPL/PRELUDE)]
 
@@ -197,6 +199,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**IEEE-RAS**] Dynamic Bipedal Turning through Sim-to-Real Reinforcement Learning. [[paper](https://ieeexplore.ieee.org/abstract/document/10000225)]
 - [**IEEE-RAS**] Learning Bipedal Walking On Planned Footsteps For Humanoid Robots. [[paper](https://arxiv.org/pdf/2207.12644.pdf)] [[code](https://github.com/rohanpsingh/learninghumanoidwalking)]
 - [**TCAS-II**] Parallel Deep Reinforcement Learning Method for Gait Control of Biped Robot. [[paper](https://ieeexplore.ieee.org/document/9690599)]
+- [**ScienceRobotics**] Learning robust perceptive locomotion for quadrupedal robots in the wild. [[paper](https://arxiv.org/pdf/2201.08117.pdf)]
 
 
 
