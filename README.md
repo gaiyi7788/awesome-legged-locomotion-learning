@@ -200,6 +200,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**IEEE-RAS**] Learning Bipedal Walking On Planned Footsteps For Humanoid Robots. [[paper](https://arxiv.org/pdf/2207.12644.pdf)] [[code](https://github.com/rohanpsingh/learninghumanoidwalking)]
 - [**TCAS-II**] Parallel Deep Reinforcement Learning Method for Gait Control of Biped Robot. [[paper](https://ieeexplore.ieee.org/document/9690599)]
 - [**ScienceRobotics**] Learning robust perceptive locomotion for quadrupedal robots in the wild. [[paper](https://arxiv.org/pdf/2201.08117.pdf)]
+- [**IEEE-TRO**] RLOC: Terrain-Aware Legged Locomotion Using Reinforcement Learning and Optimal Control. [[paper](https://ieeexplore.ieee.org/document/9779429)] [[code](https://github.com/ori-drs/rloc_manuscript_supplementary_code)]
 
 
 
