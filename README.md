@@ -158,7 +158,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 ![image-20230323104014947](./src/figs/image-20230323104014948.png)
 
-- 
+- [**ICRA**] Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion. [[paper](https://arxiv.org/pdf/2303.11330.pdf)]
 
 #### Journal
 
