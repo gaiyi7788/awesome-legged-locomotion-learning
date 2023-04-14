@@ -115,6 +115,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Arxiv Preprint
 
+- [2023] Learning Bipedal Walking for Humanoids with Current Feedback. [[paper](https://arxiv.org/pdf/2303.03724.pdf)] [[code](https://github.com/rohanpsingh/LearningHumanoidWalking/tree/topic/omnidirectional-walk)]
+
 - [2023] DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning. [[paper](https://arxiv.org/pdf/2301.10602.pdf)]
 
 - [2023] Learning Humanoid Locomotion with Transformers. [[paper](https://arxiv.org/pdf/2303.03381.pdf)]
@@ -177,6 +179,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**CoRL**] Legged Locomotion in Challenging Terrains using Egocentric Vision. [[paper](https://proceedings.mlr.press/v205/agarwal23a/agarwal23a.pdf)]
 - [**RSS**] Rapid Locomotion via Reinforcement Learning. [[paper](https://github.com/Improbable-AI/rapid-locomotion-rl)] [[code](https://github.com/Improbable-AI/rapid-locomotion-rl)]
 - [**ICRA**] An Adaptable Approach to Learn Realistic Legged Locomotion without Examples. [[paper](https://ieeexplore.ieee.org/abstract/document/9812441)]
+- [**ICRA**] Accessibility-Based Clustering for Effcient Learning of Locomotion Skills. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812113)]
 - [**ICRA**] Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads. [[paper](https://ieeexplore.ieee.org/document/9811783)]
 - [**ICRA**] Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812015)]
 - [**IROS**] Vision-Guided Quadrupedal Locomotion in the Wild with Multi-Modal Delay Randomization. [**vision-guide**] [[paper](https://openreview.net/pdf?id=N3WiBWejPzw)] [[code](https://github.com/Mehooz/vision4leg)]
