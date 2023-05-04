@@ -115,6 +115,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Arxiv Preprint
 
+- [2023] Agile and Versatile Robot Locomotion via Kernel-based Residual Learning. [[paper](https://arxiv.org/pdf/2302.07343.pdf)]
+
 - [2023] Learning Bipedal Walking for Humanoids with Current Feedback. [[paper](https://arxiv.org/pdf/2303.03724.pdf)] [[code](https://github.com/rohanpsingh/LearningHumanoidWalking/tree/topic/omnidirectional-walk)]
 
 - [2023] DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning. [[paper](https://arxiv.org/pdf/2301.10602.pdf)]
@@ -166,7 +168,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Journal
 
-
+- [**Frontiers in Robotics and AI**] Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10123269/pdf/frobt-10-1004490.pdf)]
 
 ### 2022
 
@@ -206,6 +208,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**TCAS-II**] Parallel Deep Reinforcement Learning Method for Gait Control of Biped Robot. [[paper](https://ieeexplore.ieee.org/document/9690599)]
 - [**ScienceRobotics**] Learning robust perceptive locomotion for quadrupedal robots in the wild. [[paper](https://arxiv.org/pdf/2201.08117.pdf)]
 - [**IEEE-TRO**] RLOC: Terrain-Aware Legged Locomotion Using Reinforcement Learning and Optimal Control. [[paper](https://ieeexplore.ieee.org/document/9779429)] [[code](https://github.com/ori-drs/rloc_manuscript_supplementary_code)]
+- [**IEEE-RAL**] Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9682564)]
 
 
 
@@ -288,6 +291,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**ACM TOG**] Learning Symmetric and Low-Energy Locomotion. [[paper](https://dl.acm.org/doi/pdf/10.1145/3197517.3201397)]
 
 ![image-20230301192459282](./src/figs/image-20230301192459282.png)
+
+- [**IEEE RAS**] Learning Whole-body Motor Skills for Humanoids. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8625045)]
 
 ### 2017
 
