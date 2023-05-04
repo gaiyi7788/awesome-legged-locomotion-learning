@@ -115,6 +115,10 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Arxiv Preprint
 
+- [2023] Torque-based Deep Reinforcement Learning for Task-and-Robot Agnostic Learning on Bipedal Robots Using Sim-to-Real Transfer. [[paper](https://arxiv.org/pdf/2304.09434.pdf)]
+
+- [2023] Learning and Adapting Agile Locomotion Skills by Transferring Experience. [[paper](https://arxiv.org/pdf/2304.09834.pdf)]
+
 - [2023] Agile and Versatile Robot Locomotion via Kernel-based Residual Learning. [[paper](https://arxiv.org/pdf/2302.07343.pdf)]
 
 - [2023] Learning Bipedal Walking for Humanoids with Current Feedback. [[paper](https://arxiv.org/pdf/2303.03724.pdf)] [[code](https://github.com/rohanpsingh/LearningHumanoidWalking/tree/topic/omnidirectional-walk)]
@@ -165,6 +169,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 - [**ICRA**] Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion. [[paper](https://arxiv.org/pdf/2303.11330.pdf)]
 - [**ICRA**] DribbleBot: Dynamic Legged Manipulation in the Wild. [[paper](https://arxiv.org/pdf/2304.01159.pdf)] [[code soon](https://github.com/Improbable-AI/dribblebot)]
+- [**L4DC**] Continuous Versatile Jumping Using Learned Action Residuals. [[paper](https://arxiv.org/pdf/2304.08663.pdf)]
 
 #### Journal
 
