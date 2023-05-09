@@ -184,6 +184,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 - [**CoRL**] Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior. (Oral) [**control**] [[paper](https://arxiv.org/abs/2212.03238)] [[code](https://github.com/Improbable-AI/walk-these-ways)]
 - [**CoRL**] Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. (Oral) [[paper](https://manipulation-locomotion.github.io/resources/Deep-Whole-Body-Control.pdf)]
 - [**CoRL**] Legged Locomotion in Challenging Terrains using Egocentric Vision. [[paper](https://proceedings.mlr.press/v205/agarwal23a/agarwal23a.pdf)]
+- [**CoRL**] DayDreamer: World Models for Physical Robot Learning. [[paper](https://arxiv.org/pdf/2206.14176.pdf)]
 - [**RSS**] Rapid Locomotion via Reinforcement Learning. [[paper](https://github.com/Improbable-AI/rapid-locomotion-rl)] [[code](https://github.com/Improbable-AI/rapid-locomotion-rl)]
 - [**ICRA**] An Adaptable Approach to Learn Realistic Legged Locomotion without Examples. [[paper](https://ieeexplore.ieee.org/abstract/document/9812441)]
 - [**ICRA**] Accessibility-Based Clustering for Effcient Learning of Locomotion Skills. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812113)]
