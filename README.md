@@ -115,6 +115,8 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 #### Arxiv Preprint
 
+- [2023] Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control. [[paper](https://arxiv.org/pdf/2305.10989.pdf)]
+
 - [2023] Torque-based Deep Reinforcement Learning for Task-and-Robot Agnostic Learning on Bipedal Robots Using Sim-to-Real Transfer. [[paper](https://arxiv.org/pdf/2304.09434.pdf)]
 
 - [2023] Learning and Adapting Agile Locomotion Skills by Transferring Experience. [[paper](https://arxiv.org/pdf/2304.09834.pdf)]
