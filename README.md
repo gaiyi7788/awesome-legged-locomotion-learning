@@ -171,6 +171,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 
 - [**ICRA**] Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion. [[paper](https://arxiv.org/pdf/2303.11330.pdf)]
 - [**ICRA**] DribbleBot: Dynamic Legged Manipulation in the Wild. [[paper](https://arxiv.org/pdf/2304.01159.pdf)] [[code soon](https://github.com/Improbable-AI/dribblebot)]
+- [**ICRA**] Benchmarking Potential Based Rewards for Learning Humanoid Locomotion. [[paper](https://ieeexplore.ieee.org/abstract/document/10160885)]
 - [**L4DC**] Continuous Versatile Jumping Using Learned Action Residuals. [[paper](https://arxiv.org/pdf/2304.08663.pdf)]
 
 #### Journal
