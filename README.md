@@ -177,6 +177,7 @@ I'm new to the region of legged locomotion, and this awesome list is mainly used
 #### Journal
 
 - [**Frontiers in Robotics and AI**] Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10123269/pdf/frobt-10-1004490.pdf)]
+- [**IEEE-RAL**] Learning Complex Motor Skills for Legged Robot Fall Recovery. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10138662)]
 
 ### 2022
 
